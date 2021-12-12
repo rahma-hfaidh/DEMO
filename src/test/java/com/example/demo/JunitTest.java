@@ -12,7 +12,7 @@ class JunitTest {
 	void test() {
 		countA test =new countA();
 		int output = test.countA("alphabet");
-		assertEquals(,output);
+		assertEquals(2,output);
 
 	}
 
